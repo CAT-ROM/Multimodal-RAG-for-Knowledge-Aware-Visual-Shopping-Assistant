@@ -31,9 +31,7 @@ bioinformatics-rag-app/
 ├── requirements.txt # 📦 Python dependencies
 └── README.md # 📄 This detailed project documentation
 
-markdown
-Copy
-Edit
+---
 
 - **data/** — Contains the scraped dataset with product metadata CSV and corresponding images.  
 - **embeddings/** — Optional folder where precomputed vector embeddings are stored to speed up similarity search.  
