@@ -22,14 +22,14 @@ Answering these questions requires understanding multiple types of data: product
 
 ## 📁 Project Structure
 
-bioinformatics-rag-app/
-├── data/ # 🗂️ Product metadata CSV and images folder
-├── embeddings/ # 💾 (Optional) Precomputed embeddings for faster retrieval
-├── shopping_rag_app.py # 🖥️ Streamlit app frontend
-├── retrieval_pipeline.py # 🔍 Retrieval logic for text and images
-├── generation_module.py # 🤖 Answer generation logic using retrieved info
-├── requirements.txt # 📦 Python dependencies
-└── README.md # 📄 This detailed project documentation
+bioinformatics-rag-app/  
+├── data/                  # 🗂️ Product metadata CSV and images folder  
+├── embeddings/            # 💾 (Optional) Precomputed embeddings for faster retrieval  
+├── shopping_rag_app.py    # 🖥️ Streamlit app frontend  
+├── retrieval_pipeline.py  # 🔍 Retrieval logic for text and images  
+├── generation_module.py   # 🤖 Answer generation logic using retrieved info  
+├── requirements.txt       # 📦 Python dependencies  
+└── README.md              # 📄 This detailed project documentation  
 
 ---
 
